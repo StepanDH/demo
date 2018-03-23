@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="/home/vaclav/bin/jdk1.6.0_23" version="1.6.0_23">
+<bootpath>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/resources.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/rt.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/sunrsasign.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/jsse.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/jce.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/charsets.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/modules/jdk.boot.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\progs\Java\jre6" version="1.6.0_22">
+<bootpath>
+<entry path="C:\progs\Java\jre6\lib\resources.jar"/>
+<entry path="C:\progs\Java\jre6\lib\rt.jar"/>
+<entry path="C:\progs\Java\jre6\lib\sunrsasign.jar"/>
+<entry path="C:\progs\Java\jre6\lib\jsse.jar"/>
+<entry path="C:\progs\Java\jre6\lib\jce.jar"/>
+<entry path="C:\progs\Java\jre6\lib\charsets.jar"/>
+<entry path="C:\progs\Java\jre6\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\progs\Java\jre6\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\progs\Java\jre6\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/home/vaclav/bin/jdk1.6.0_23/jre" version="1.6.0_23">
+<bootpath>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/resources.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/rt.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/sunrsasign.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/jsse.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/jce.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/charsets.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/modules/jdk.boot.jar"/>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/home/vaclav/bin/jdk1.6.0_23/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
